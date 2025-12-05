@@ -1,0 +1,6 @@
+@BillByte_HostAddress = http://localhost:5280
+
+GET {{BillByte_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
